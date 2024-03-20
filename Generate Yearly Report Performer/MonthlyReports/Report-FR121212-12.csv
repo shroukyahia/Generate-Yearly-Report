@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+270631,"IT Support",73213,14642.6,87855.6,EUR,2017-12-18
+370372,"Various paper supplies",147187,29437.4,176624,USD,2017-12-12
+272406,"Waste management services",120788,24157.6,144946,EUR,2017-12-28

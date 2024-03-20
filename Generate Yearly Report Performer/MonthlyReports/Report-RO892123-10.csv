@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+911122,"Professional Services",2017-10-23,38090,7618,45708,CAD
+474198,"Waste management services",2017-10-10,59120,11824,70944,USD

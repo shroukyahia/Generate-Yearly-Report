@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+728932,"Waste management services",2017-08-24,165065,33013,198078,EUR
+274247,"Beverages and Catering",2017-08-01,89429,17885.8,107315,CAD
+244555,"Professional Services",2017-08-18,101929,20385.8,122315,USD
